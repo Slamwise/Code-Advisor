@@ -21,4 +21,4 @@ def main(n):
 
     print(xyz_list)
 if __name__ == "__main__":
-    main(10000)
+    main(100000)

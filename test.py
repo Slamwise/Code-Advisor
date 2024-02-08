@@ -19,6 +19,5 @@ def main(n):
 
         xyz_list.append((x, y, z))
 
-    print(xyz_list)
 if __name__ == "__main__":
-    main(100000)
+    main(1000000)
